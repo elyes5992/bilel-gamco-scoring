@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  --color-gamco-dark: #7A1315;
+  --color-gamco-orange: #E86E34;
+  --color-gamco-red: #B7202E;
+}
